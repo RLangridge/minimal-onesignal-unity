@@ -1,0 +1,6 @@
+/AndroidTest/Library/*
+/AndroidTest/obj/*
+/AndroidTest/Temp/
+/AndroidTest/UserSettings/*
+/AndroidTest/Logs/*
+/AndroidTest/.idea/*
